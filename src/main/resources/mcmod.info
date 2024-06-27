@@ -2,13 +2,14 @@
   {
     "modid": "${id}",
     "name": "${name}",
-    "description": "",
+    "description": "Makes chat smoother and gives it a clear background.",
     "version": "${version}",
     "mcversion": "${mcVersionStr}",
     "url": "",
     "updateUrl": "",
     "authorList": [
-      "Your Name"
+      "Llamalad7",
+      "Mixces"
     ],
     "credits": "",
     "logoFile": "",

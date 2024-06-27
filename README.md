@@ -1,21 +1,17 @@
-# OneConfigExampleMod
+# Better Chat
 
 ![Powered by OneConfig](https://polyfrost.org/media/branding/badges/badge_1.svg)
-![Compact Powered by OneConfig](https://polyfrost.org/media/branding/badges/badge_2.svg)
-![Minimal Powered by OneConfig](https://polyfrost.org/media/branding/badges/badge_3.svg)
-![Minimal Compact Powered by OneConfig](https://polyfrost.org/media/branding/badges/badge_4.svg)
 
-Example mod implementing OneConfig.
+This mod is a port of [Better Chat](https://github.com/LlamaLad7/Better-Chat) by [Llamalad7](https://github.com/LlamaLad7) to OneConfig!
 
-## How to use
+### Features
 
-- Copy the template either by using GitHub's "Use this template" feature or downloading the repo manually.
-- **Remove the license named "LICENSE-TEMPLATE" and choose a new one.**
-- Refactor the template (specifically, the modid, version and name in the gradle.properties and most of the class names)
-  to a different name.
-- Have fun modding! :D
+- Remove Chat Background (and Keep Background When Chat is Open)
+- Smooth Chat
+- Move Chat Above Hearts
 
-## Need to update to a newer commit of this template?
+### Support
 
-Check out these update guides:
-- [Updating to commit `301a6ca`](update-to-301a6ca.md) (most recent update)
+Want more features? Check out [Chatting](https://github.com/Polyfrost/Chatting), it has everything this mod has plus more!
+
+Have any issue or need support? Feel free to open an issue!
